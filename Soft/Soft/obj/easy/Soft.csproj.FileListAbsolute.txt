@@ -1,0 +1,10 @@
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\bin\easy\Soft.exe
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\bin\easy\Bunifu_UI_v1.52.dll
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\bin\easy\Soft.exe.config
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\easy\Soft.Form1.resources
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\easy\Soft.Properties.Resources.resources
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\easy\Soft.Tyreform.resources
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\easy\Soft.tyreselection.resources
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\easy\Soft.csproj.GenerateResource.Cache
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\easy\Soft.exe
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\easy\Soft.pdb

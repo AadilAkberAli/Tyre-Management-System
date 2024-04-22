@@ -1,0 +1,47 @@
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\bin\Debug\Soft.exe.config
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\bin\Debug\Soft.exe
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\bin\Debug\Soft.pdb
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Debug\Soft.Detailsnew1.resources
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Debug\Soft.Details1.resources
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Debug\Soft.Details2.resources
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Debug\Soft.Feed_Back.resources
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Debug\Soft.Form1.resources
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Debug\Soft.Introduction.resources
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Debug\Soft.Invoice.resources
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Debug\Soft.Payment.resources
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Debug\Soft.Properties.Resources.resources
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Debug\Soft.Recordpurchases.resources
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Debug\Soft.RecordSales.resources
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Debug\Soft.Rimdetail1.resources
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Debug\Soft.Rimdetails3.resources
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Debug\Soft.Rimsdetails2.resources
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Debug\Soft.Rimselection.resources
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Debug\Soft.tyreselection.resources
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Debug\Soft.csproj.GenerateResource.Cache
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Debug\Soft.exe
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Debug\Soft.pdb
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Debug\Soft.csprojResolveAssemblyReference.cache
+C:\Users\User's\Desktop\Soft\Soft\bin\Debug\Soft.exe.config
+C:\Users\User's\Desktop\Soft\Soft\obj\Debug\Soft.exe
+C:\Users\User's\Desktop\Soft\Soft\obj\Debug\Soft.pdb
+C:\Users\User's\Desktop\Soft\Soft\bin\Debug\Soft.exe
+C:\Users\User's\Desktop\Soft\Soft\bin\Debug\Soft.pdb
+C:\Users\User's\Desktop\Soft\Soft\obj\Debug\Soft.Detailsnew1.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Debug\Soft.Details1.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Debug\Soft.Details2.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Debug\Soft.Feed_Back.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Debug\Soft.Form1.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Debug\Soft.Introduction.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Debug\Soft.Invoice.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Debug\Soft.Payment.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Debug\Soft.Properties.Resources.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Debug\Soft.Recordpurchases.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Debug\Soft.RecordSales.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Debug\Soft.Rimdetail1.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Debug\Soft.Rimdetails3.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Debug\Soft.Rimsdetails2.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Debug\Soft.Rimselection.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Debug\Soft.tyreselection.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Debug\Soft.csproj.GenerateResource.Cache
+C:\Users\User's\Desktop\Soft\Soft\obj\Debug\Soft.csprojResolveAssemblyReference.cache

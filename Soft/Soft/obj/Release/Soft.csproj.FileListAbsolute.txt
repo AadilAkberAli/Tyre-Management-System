@@ -1,0 +1,62 @@
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\bin\Release\Soft.exe.config
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\bin\Release\Soft.exe
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\bin\Release\Soft.pdb
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Release\Soft.Form1.resources
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Release\Soft.Properties.Resources.resources
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Release\Soft.Tyreform.resources
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Release\Soft.tyreselection.resources
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Release\Soft.csproj.GenerateResource.Cache
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Release\Soft.exe
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Release\Soft.pdb
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Release\Soft.csprojResolveAssemblyReference.cache
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Release\Soft.Details.resources
+C:\Users\User's\Documents\Visual Studio 2013\Projects\Soft\Soft\obj\Release\Soft.Rimselection.resources
+C:\Users\User's\Desktop\Soft\Soft\bin\Release\Soft.exe.config
+C:\Users\User's\Desktop\Soft\Soft\obj\Release\Soft.exe
+C:\Users\User's\Desktop\Soft\Soft\obj\Release\Soft.pdb
+C:\Users\User's\Desktop\Soft\Soft\bin\Release\Soft.exe
+C:\Users\User's\Desktop\Soft\Soft\bin\Release\Soft.pdb
+C:\Users\User's\Desktop\Soft\Soft\obj\Release\Soft.Detailsnew1.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Release\Soft.Details1.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Release\Soft.Details2.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Release\Soft.Feed_Back.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Release\Soft.Form1.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Release\Soft.Introduction.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Release\Soft.Invoice.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Release\Soft.Payment.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Release\Soft.Properties.Resources.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Release\Soft.Recordpurchases.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Release\Soft.RecordSales.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Release\Soft.Rimdetail1.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Release\Soft.Rimdetails3.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Release\Soft.Rimsdetails2.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Release\Soft.Rimselection.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Release\Soft.tyreselection.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Release\Soft.csproj.GenerateResource.Cache
+C:\Users\User's\Desktop\Soft\Soft\obj\Release\Soft.Customerpurchase.resources
+C:\Users\User's\Desktop\Soft\Soft\obj\Release\Soft.csprojResolveAssemblyReference.cache
+E:\Files\TIME TYRE MANAGEMENT\Soft\Soft\bin\Release\Soft.exe.config
+E:\Files\TIME TYRE MANAGEMENT\Soft\Soft\obj\Release\Soft.exe
+E:\Files\TIME TYRE MANAGEMENT\Soft\Soft\obj\Release\Soft.pdb
+E:\Files\TIME TYRE MANAGEMENT\Soft\Soft\bin\Release\Soft.exe
+E:\Files\TIME TYRE MANAGEMENT\Soft\Soft\bin\Release\Soft.pdb
+E:\Files\TIME TYRE MANAGEMENT\Soft\Soft\obj\Release\Soft.csprojResolveAssemblyReference.cache
+E:\Files\TIME TYRE MANAGEMENT\Soft\Soft\obj\Release\Soft.Customerpurchase.resources
+E:\Files\TIME TYRE MANAGEMENT\Soft\Soft\obj\Release\Soft.Detailsnew1.resources
+E:\Files\TIME TYRE MANAGEMENT\Soft\Soft\obj\Release\Soft.Details1.resources
+E:\Files\TIME TYRE MANAGEMENT\Soft\Soft\obj\Release\Soft.Details2.resources
+E:\Files\TIME TYRE MANAGEMENT\Soft\Soft\obj\Release\Soft.Feed_Back.resources
+E:\Files\TIME TYRE MANAGEMENT\Soft\Soft\obj\Release\Soft.Form1.resources
+E:\Files\TIME TYRE MANAGEMENT\Soft\Soft\obj\Release\Soft.Introduction.resources
+E:\Files\TIME TYRE MANAGEMENT\Soft\Soft\obj\Release\Soft.Invoice.resources
+E:\Files\TIME TYRE MANAGEMENT\Soft\Soft\obj\Release\Soft.Payment.resources
+E:\Files\TIME TYRE MANAGEMENT\Soft\Soft\obj\Release\Soft.Properties.Resources.resources
+E:\Files\TIME TYRE MANAGEMENT\Soft\Soft\obj\Release\Soft.Recordpurchases.resources
+E:\Files\TIME TYRE MANAGEMENT\Soft\Soft\obj\Release\Soft.RecordSales.resources
+E:\Files\TIME TYRE MANAGEMENT\Soft\Soft\obj\Release\Soft.Rimdetail1.resources
+E:\Files\TIME TYRE MANAGEMENT\Soft\Soft\obj\Release\Soft.Rimdetails3.resources
+E:\Files\TIME TYRE MANAGEMENT\Soft\Soft\obj\Release\Soft.Rimsdetails2.resources
+E:\Files\TIME TYRE MANAGEMENT\Soft\Soft\obj\Release\Soft.Rimselection.resources
+E:\Files\TIME TYRE MANAGEMENT\Soft\Soft\obj\Release\Soft.tyreselection.resources
+E:\Files\TIME TYRE MANAGEMENT\Soft\Soft\obj\Release\Soft.csproj.GenerateResource.Cache
